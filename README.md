@@ -40,6 +40,9 @@ Here are some of the awesome projects I've been working on:
 > 🎓 A Django web platform for students and faculty to manage academic documents securely.  
 > Includes OTP-based password reset, file uploads, and role-based dashboards.
 
+### 🔹 [VotingApp](https://github.com/VivekTechWorld/Voting-app)
+> 🎓 The app is built using Django (Python) for the backend, with dynamic chart visualization powered by Matplotlib or Chart.js, and a clean UI made with HTML, CSS,
+
 
 ### 📊 GitHub Stats
 
